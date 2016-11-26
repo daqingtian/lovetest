@@ -1,0 +1,27 @@
+﻿html{
+	height: 100%;width:100%;
+}
+@media screen and (min-width: 500px) {
+	body {
+		/*background-color:blueviolet;*/
+		margin:0 auto;
+		width: 100%;height:100%;
+		/*border: 1px solid black;*/
+		background-image: url("../img/photo.png");
+		background-repeat:no-repeat;
+		background-size:100% 100%;
+
+	}
+}
+@media screen and (max-width: 800px) {
+	body {
+		/*background-color:red;*/
+		margin:0 auto;
+		width: 100%;height:100%;
+		/*border: 1px solid black;*/
+		background-image: url("../img/nvshen.jpg");
+		background-repeat:no-repeat;
+		background-size:100% 100%;
+	}
+}
+

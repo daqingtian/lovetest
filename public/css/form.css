@@ -1,0 +1,8 @@
+html{height: 100%;}
+.body{margin: 0 auto; width: 90%;height: 100%;}
+.container{margin: 0 auto;width: 80%; height: 100%;}
+.nav-icon{float: right;}
+.header{margin: 0 auto;width: 80%;height: 40%;}
+.boder {margin: 0 auto;width: 80%;height: 40%;}
+.footer{margin: 0 auto;width: 80%;height: 20%;}
+/*.an:hover span{color: red;}  hover 使用方法*/
